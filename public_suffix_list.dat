@@ -13842,4 +13842,11 @@ basicserver.io
 virtualserver.io
 enterprisecloud.nu
 
+// TicketSearch
+// Submitted by Dennis Doulgeridis dennisd@ticketsearch.com
+ticketsearch.com
+artshouse.sales.ticketsearch.com
+norpa.sales.ticketsearch.com
+*.sales.ticketsearch.com
+
 // ===END PRIVATE DOMAINS===
